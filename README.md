@@ -10,7 +10,7 @@ to figure out the edges connecting all the towers together with the minimal over
 operating cost.
 
 ### In this poject the solution will be computed using MST
-1. **minimumconnections:** public static String minimumconnections (String network) 
+ ** **minimumconnections:** public static String minimumconnections (String network) **
 
 *that implements Kruskal's Algorithm to solve the problem.*
 
